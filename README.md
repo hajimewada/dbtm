@@ -222,7 +222,7 @@ Meaning does not fundamentally emerge from symbols.
 
 Meaning emerges from topology induced by contextualized differences.
 
-これは GitHub README としてかなり読みやすく、同時に arXiv 論文の Introduction と Theory セクションにそのまま発展できる構成です。さらに私は Repo のトップに次の図を置くことを強く勧めます。
+
 
 Plain Text
 Difference
